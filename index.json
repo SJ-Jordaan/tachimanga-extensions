@@ -1,0 +1,51 @@
+{
+  "name": "SJ-Jordaan",
+  "badgeLabel": "SJ",
+  "signingKey": "10f249a6350392a46efb59a27541de3babaf62ae152cc6310855223a6e76621c",
+  "contact": {
+    "website": "https://github.com/SJ-Jordaan/tachimanga-extensions"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "NHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/SJ-Jordaan/tachimanga-extensions/main/apk/tachiyomi-all.nhentai-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/SJ-Jordaan/tachimanga-extensions/main/icon/eu.kanade.tachiyomi.extension.all.nhentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/SJ-Jordaan/tachimanga-extensions/main/jar/tachiyomi-all.nhentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1167260633771718851",
+            "name": "NHentai",
+            "language": "all",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "3122156392225024195",
+            "name": "NHentai",
+            "language": "en",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "4726175775739752699",
+            "name": "NHentai",
+            "language": "ja",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "2203215402871965477",
+            "name": "NHentai",
+            "language": "zh",
+            "homeUrl": "https://nhentai.net"
+          }
+        ]
+      }
+    ]
+  }
+}
